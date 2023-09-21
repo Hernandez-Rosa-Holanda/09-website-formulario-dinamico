@@ -3,7 +3,7 @@
 
   <h3>Formulário</h3> 
   <p>
-    Solução de Formulário de Longin para WebSite
+    Solução de Formulário de Longin para Website
     <br>https://09-website-formulario-dinamico.vercel.app/</br>
   </p>
 <h2>Layout</h2>
@@ -14,7 +14,7 @@
 <h2>Tecnologias utilizadas</h2>
 
 <ul>
-  <li>HTML5 Semântico
+  <li>HTML 
   <li>Css
   <li>Javascript
 </ul>
